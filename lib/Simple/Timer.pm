@@ -47,10 +47,9 @@ sub import {
 
 =head1 DESCRIPTION
 
-This module offers yet another way (actually two ways) to to time your code. The
-goal for this module is very simple interface, so no OO (cumbersombe with the
-need to instantiate a class). You just use a single variable or a single
-function).
+This module offers yet another way (actually two ways) to time your code. The
+goal of this module is very simple interface, so no cumbersombe OO with the need
+to instantiate a class. You just use a single variable or a single function.
 
 There are two ways which you can choose. You can either:
 
