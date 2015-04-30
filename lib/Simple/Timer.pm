@@ -84,8 +84,8 @@ Execute CODE and print the number of seconds passed.
 
 Benchmark modules which I often use: L<Benchmark>, L<Benchmark::Dumb>, L<Bench>
 
-To time whole programs simply, you might want to try L<Bench> (just use/load
-it).
+To time whole programs, you might want to try L<Bench> (just use/load it) or
+L<Timer::Runtime>. Or, nothing beats the simplicity of the Unix B<time> command.
 
 For alternatives to this module, you can try: L<Time::HiRes> directly,
 L<Time::Stopwatch> (the backend module which this module uses), L<Timer::Simple>
